@@ -1,3 +1,3 @@
-#GifExpertApp
+# GifExpertApp
 
 Project: Gif searcher in React with Vite instead of create react app using Giphy's API, custom hooks, good practices and more...
